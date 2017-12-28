@@ -1,9 +1,3 @@
-# for chubbyemu video at https://www.youtube.com/watch?v=omMVAtGGr_0
-# THIS SCRIPT USES THE LIBRARY AT:
-# https://github.com/hzeller/rpi-rgb-led-matrix
-# BE SURE TO CLONE IT AND READ THE README, as highlighted in the video :)
-
-
 import os, time, threading, random
 import feedparser
 from PIL import Image, ImageFont, ImageDraw
