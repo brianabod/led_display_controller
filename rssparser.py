@@ -1,6 +1,5 @@
 import os, time, threading, random
-import lib.feedparser as feedparser
-# import feedparser
+import feedparser
 from PIL import Image, ImageFont, ImageDraw
 from random import shuffle
 
